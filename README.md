@@ -1,4 +1,4 @@
-# Virtual drone environment 
+# Virtual Drone Flying Environment 
 
 Leap drone control for virtual flying environment 
 
